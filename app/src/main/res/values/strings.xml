@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MindfulnessApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnChoices">Welcome!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="oneminute">1 minute</string>
+    <string name="twominute">2 minutes</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
